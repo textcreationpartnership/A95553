@@ -1,0 +1,317 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Rhoan in France  written by Doctor Roane one of the doctors of the late sicke Commons, to his fellow doctor of civill law. Dated 28, of Iune last past. With an ellegy written by his owne hand upon the death and buriall of the said doctors Commons.</title>
+            <author>Roane, Doctor.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95553</idno>
+            <idno type="STC">Wing T473B</idno>
+            <idno type="STC">Thomason E164_6</idno>
+            <idno type="STC">ESTC R8301</idno>
+            <idno type="EEBO-CITATION">99873272</idno>
+            <idno type="PROQUEST">99873272</idno>
+            <idno type="VID">156955</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95553)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156955)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 29:E164[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Rhoan in France  written by Doctor Roane one of the doctors of the late sicke Commons, to his fellow doctor of civill law. Dated 28, of Iune last past. With an ellegy written by his owne hand upon the death and buriall of the said doctors Commons.</title>
+                  <author>Roane, Doctor.</author>
+                  <author>Taylor, John, 1580-1653, Attributed name.</author>
+               </titleStmt>
+               <extent>8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in this happy yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Doctors' Commons --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156955:1"/>
+            <pb facs="tcp:156955:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Letter from Rhoan in France Written by Doctor</hi> Roane <hi>one of the</hi> Doctors of the late ſicke Commons, to his Fellow Doctor of the Civill Law. Dated 28, of Iune laſt paſt.</p>
+            <p>With an Ellegy written by his owne hand upon the death and buriall of the ſaid Doctors Commons.</p>
+            <figure>
+               <sp>
+                  <lg>
+                     <l>O poore <hi>Roane,</hi>
+                     </l>
+                     <l>Thou are quit gone</l>
+                     <l>And left all alone,</l>
+                     <l>O Hone, oh Hone!</l>
+                  </lg>
+               </sp>
+            </figure>
+            <p>
+               <hi>Printed in this happy yeare, 1641.</hi>
+            </p>
+            <pb facs="tcp:156955:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156955:2"/>
+            <head>Letter from <hi>Roan</hi> in France, written by Doctor <hi>Roan</hi> Dr. of the Civill Law, to one of his fellow Doctors. Dated <hi>June</hi> 28, Anno Dom. 1641.</head>
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>I Hope you are alike ſenſible with me of the danger of theſe difficult times: tis true, I am held but as a Fugitive, as one fled into <hi>France,</hi> and it was but time (And I am glad I took occaſion by the fore-lock,) otherwiſe I knew our owne Ec<g ref="char:EOLhyphen"/>cleſiaſticall Canons would have bin charged and bent againſt mee, and what I pray you have you got by your tarrying at home, when their terrible thunder ſhall ſtrike you ſooner and neerer and at home, then me being abroad and far off? Therein the detriment of your delay, and the benefit of my active diſpatch, you being now preſent to abide all their perverſe ſentences: and I priviledged from all their peremptorie cen<g ref="char:EOLhyphen"/>ſures.</p>
+            <p>But I pray Maſter Doctor, but let us recall to our ſelves <hi>ab Origine</hi> from the beginning of our firſt acquaintance, when you and I were firſt Students in Trinitie Hall in <hi>Cambridge:</hi> tis true, that when wee were firſt there fellow commoners, our ambitions were to be after Doctors of the <hi>Commons,</hi> and though I then trivanted my time, and was none of the beſt proficients, yet what by the freeneſſe of my purſe, and favour of friends, I tooke my Degree when the time of commence<g ref="char:EOLhyphen"/>ment came, and ſo ſhuffled in amongſt the reſt of my fellow ſtu<g ref="char:EOLhyphen"/>dents, that it was put upon me, <hi>without question,</hi> and then that one old Engliſh meeter came into my minde.
+<q>
+                  <l>A Master of Art is not worth a fart,</l>
+                  <l>Vnleſſe he be in the Schooles:</l>
+                  <l>A Batcheler of Law is not worth a straw</l>
+                  <l>Vnleſſe he be amongſt fooles.</l>
+               </q>
+            </p>
+            <p>ANd then I knew withall how to cheat the Latin proverb which ſayth, <hi>Cucullus non facit Monachum:</hi> preſuming that the head, and that onely made the Doctor<hi>:</hi> Sir I would not have been ſo plain to any but your ſelfe, whom I knowe to be a fellow practitioner in all my former proceedings, and come a like ſufferer in theſe our preſent C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lamities, which makes mee unto you ſo freely to confeſſe my ſelfe; and not without a ſorrowfull ſigh to ſay,
+<q xml:lang="lat">
+                  <pb n="4" facs="tcp:156955:3"/>
+                  <l>Qui non ante Cavet, Iſte,</l>
+                  <l>Paſſus erit quod ſit triſte.</l>
+               </q>
+               <q>
+                  <l>Since he is not well to ſpeed,</l>
+                  <l>Who before hand takes not heed.</l>
+               </q>
+            </p>
+            <p>YOu know Doctor (and no man better) that being Cu<g ref="char:EOLhyphen"/>cullated and admitted into the Commons, we muſt car<g ref="char:EOLhyphen"/>ry our ſelves like ſouldiers doubling our files to the right hand &amp; to the left, &amp; ſuch is our caſe in dealing with our clyents, for receiving of our fees, it is not fitting that the left hand ſhould know what the right hand doth, and notwithſtanding I know my inſufficiency in the imperiall or civill Lawe, as onely verſt in the ordinary Tenents and common places; for I ever loved too much my pleaſure to take <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oo much paynes at my ſtudy, yet I ſo sk<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ued my ſelfe into Cauſes and tooke the occaſion of all adva<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tages, gathering up crumbs, I cared not from under whoſe Table, that in proceſſe of time I picked up a thouſand pounds in my purſe, which not willing it ſhould lye idle and ruſt in a corner, I was apt to put it out to <hi>Opus</hi> and <hi>Vſus:</hi> But (child as I was) delivering it into the hands of <hi>Child</hi> the Scrivener, I was cheated of it all at a clap, never was <hi>Roan</hi> ſerved ſuch an horſe trick; notwithſtanding which, I bore it cut bravely, and though both purſe and pockets were prettily emptied, yet I ba<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed nothing in my countenance, and <hi>Dominie</hi> Doctor was then the onely thing I had to truſt to, which ſupported mee in my credit aſſiſted with my ſmall practiſe, and loud clamour in the Courts.</p>
+            <p>For how could wee live at that full rate, to feed high and drinke deep, to carry all our deportments in that gentile garbe, by ordinary fees; and common gratuities? no; where skill is ſcanted we muſt uſe ſlight and ſubtilty, and when lear<g ref="char:EOLhyphen"/>ning is lacking wee muſt fly to <hi>Legerdimane;</hi> nay ſometimes fee as we would be feed, and bribe as our deſire is to be bri<g ref="char:EOLhyphen"/>bed, this is <hi>lex Talionis</hi> the Law of Tallying, <hi>manus manum fricat,</hi> claw mee, claw thee, nay indeed, the true lawe of charity, to doe to others as we would have done to our ſelves and therefore how oft have I come off, with ſilke ſtockings to divers of my Lord Arch-biſhop schiefe ſervants with ſuits of Sattin, pluſh cloaks, beavers and the like, and ſome<g ref="char:EOLhyphen"/>times preſented their Chaplains with Canonicall Caſſacks
+<pb n="5" facs="tcp:156955:3"/>
+and Leviticall girdles; not paſſing the gate, without a me<g ref="char:EOLhyphen"/>morandum to the porter, now if any ſhall ſay what was the event or ſucceſſe of theſe? to them I anſwer, then had I coun<g ref="char:EOLhyphen"/>tenance in the high Commiſſion Court (a poxe take it, and would I had never knowne it,) and his mighty Metropoli<g ref="char:EOLhyphen"/>tan-ſhip, would either take notice of me, by affording mee a gracious nod, or ſweetning mee with a ſmile, or perhaps ſaying, how doth my good Doctor and this get me credit a<g ref="char:EOLhyphen"/>monſt my Clyents, Intelligence from the Sumnors, and pa<g ref="char:EOLhyphen"/>ritors, practiſe by the meanes of the Courtiers and a cur<g ref="char:EOLhyphen"/>rent Correſpondence with the chiefe Doctors of the Com<g ref="char:EOLhyphen"/>mons, ſo that I was not only favoured by Surrogates, but frien<g ref="char:EOLhyphen"/>ded by the Judges of the Courts themſelves.</p>
+            <p>Moreover I was <hi>Martins</hi> Minion, <hi>Lambs</hi> beſt beloved, and <hi>Ducks</hi> delight, and in which of their Courts ſoever I pleaded, or was of Counſell, I carried the cauſe, though it were falſe and corrupt, as the Lattin I uttered or mine owne Conſcience, and then I thought Doctor <hi>Roane</hi> to bee as good a man within his Prerogative Courts of Freedome: as Dr. <hi>de-Roan</hi> in his great principality of <hi>France,</hi> for the regiſters of courts, were as my retainers or rather receivers, by agitating of whom I paſſed all mine Acts whether in falſe or true Lattin ſubſtance or non ſence, all was one between them and mee, as things were carried amongſt us, witneſſe the firſt Act for proceſſe and others, as the Acts <hi>ad Procedendum, ad Continus n<g ref="char:EOLhyphen"/>dum, ad molius Inquirendum, ad ſententium, ad Detractandum, ad Concludendum, ad finitum,</hi> and I am affraid if I had ſtayed by it, and not took my heeles in time, I had been ſerved by this with a writ of <hi>Diem clauſit Extremum;</hi> and theſe Cour<g ref="char:EOLhyphen"/>ſes I have bin forc'd to run, otherwiſe by this I had been forc'd <hi>to have beg'd or ſold Ballets in the ſtreets, but I praiſe my Star, I have paſt over all theſe difficulties, but moſt for eſcaping of that moſt dangerous Writ</hi> ne excat regnum.</p>
+            <p>
+               <hi>But in the way of news thus briefly: The Proteſtants and Pa<g ref="char:EOLhyphen"/>piſts, are together by the eares in</hi> France, <hi>and they are all of them as ſicke of the magni potent Cardinall, as you of your me<g ref="char:EOLhyphen"/>tropolitan</hi> Canterbury.</p>
+            <p>
+               <hi>And now let me recollect you of a paſſage, which as it is in my Register ſo I make no queſtion it fell in your remembrance, how</hi> I <hi>fetcht of one of our proud peremptory Proctors who look<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb facs="tcp:156955:4"/>
+               <hi>as high and big as</hi> Guy <hi>of</hi> Warwicke, <hi>when hee had killed the dunne Cowe of</hi> Dunmowe, <hi>or came newly from the ſla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gh<g ref="char:EOLhyphen"/>ter of</hi> Colubrand <hi>the mighty and huge</hi> Daniſh <hi>Grant, whoſe braines he beate out with his pilgrim or palmers ſtaff: this couragious cup Conquerour, walking late in the evening mee<g ref="char:EOLhyphen"/>ting with a Citizen and his wife in</hi> Fleetſtreet, <hi>tooke her a<g ref="char:EOLhyphen"/>way perforce, and like a Familist, in the heate of his zeale, hurried her away to his chamber, and made that uſe of this pretty matron, that you and I have done of many; but mum: no more words of that, for the proverb tells us, it is an ill bird that will beray her owne neſt. And wee of the</hi> Commons <hi>made conſcience to hould all ſuch Commodities in common: but now I repent mee of paſſing thoſe bandy acts, but ſilence for that, and ſtet too: but to returne where I left.</hi>
+            </p>
+            <p>This cunning and crafty (I will not ſay Cuckold) Ci<g ref="char:EOLhyphen"/>tizen after complaint made brought him within the com<g ref="char:EOLhyphen"/>paſſe of our ſpirituall Courts, and proſecuted the cauſe a<g ref="char:EOLhyphen"/>gainſt him by one of his fellow proctors, but the cunning delinquent ſeeing mee to bee one of his Counſaile, I un<g ref="char:EOLhyphen"/>dertooke his defence, by pretending, hee tooke him for a knave, and her for a proſtitute, and having but one witneſſe, the plaintiffe was condemned in Court, and I brought the buſineſſe to an eaſie compoſition, a good and bountifull ſupper ended it, where I fed prodigall like a luſty Roan-horſe, with a full manger of provender before him.</p>
+            <p>I have intelligence here in <hi>France,</hi> that ſome pen or o<g ref="char:EOLhyphen"/>ther having had commiſeration of the fall of our Commons, have not only ſorrowed with us in that ſickneſſe, but tooke the paines to make its laſt will and Teſtament; and what legacies the Court hath left behind it, I knowe not whether the will be yet prov'd or no, nor who be the heires and executors; but of this I am certaine, that after death there muſt be a buriall; and (if it come not too late, for which I ſhould be ſorry) I would intreat you to let this funerall Elegie, to be hangd upon the herſe, which I would intreate you to beare this title following.</p>
+            <div type="elegy">
+               <pb facs="tcp:156955:4"/>
+               <head>
+                  <hi>A Funerall Elegie made by Dr.</hi> Roan <hi>now a fugitive in</hi> France, <hi>upon the fall or death of</hi> Doctors Commons.</head>
+               <lg>
+                  <l>MOurne Court of <hi>Honour,</hi> thou in the firſt place,</l>
+                  <l>The <hi>Doctors</hi> Commons, is a common caſe.</l>
+                  <l>For now your <hi>Heralds</hi> ſhall no more behold</l>
+                  <l>Titles, and Armes of Gentry bought and ſold:</l>
+                  <l>For when old <hi>Adam</hi> digd, and his wife ſpan,</l>
+                  <l>Which was the Lady? who the Gentleman?</l>
+               </lg>
+               <lg>
+                  <l>And thou great <hi>Chamber,</hi> but ſo lately grac't,</l>
+                  <l>With Luminous stars, in thy bright Zodiack plac't;</l>
+                  <l>Who, as they in their ſeverall Orbs did ſhine,</l>
+                  <l>From each ones Luſtre did proceed a fine.</l>
+                  <l>Since thy whole firmament, at once is ſhooke,</l>
+                  <l>As if in ſome great Tempeſt Thunder-ſtrooke.</l>
+                  <l>Summon thy ſervants on this herſe to waite,</l>
+                  <l>From thoſe that bought their places at high rate?</l>
+                  <l>To every Clarke, Examiner, even hee,</l>
+                  <l>That in cut-fingerd gloves can take a fee,</l>
+                  <l>And cheate the Client, (for all profit's ſweet)</l>
+                  <l>With thirteen ſtradling lines in every ſheet.</l>
+               </lg>
+               <lg>
+                  <l>Mourne likewiſe you, late of the high Commiſſion,</l>
+                  <l>Since your great Court is ſentenc'd to perdition:</l>
+                  <l>And he the chiefe in that Prelattick power,</l>
+                  <l>Is leapt at once from <hi>Lambeth</hi> to the <hi>Tower.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>You of th' Epiſcopacy (I meane thoſe tainted,)</l>
+                  <l>Who might have been canoniz'd and Sainted,</l>
+                  <l>Had you faire courſes run, leave drinking ſack,</l>
+                  <l>And dye your white ſleeves into mourning black.</l>
+               </lg>
+               <lg>
+                  <l>Nor do you bring to hang upon this herſe,</l>
+                  <l>Sad Epitaphs, either in proſe or verſe.</l>
+                  <l>I rather wiſh that theſe his funerall cloaths,</l>
+                  <l>May be decor'd with <hi>Ex Officio</hi> oaths,</l>
+                  <l>New Canons, and th' unlimited <hi>Et caetera,</hi>
+                  </l>
+                  <l>To which, let other Courts, bring in their <hi>Vetera,</hi>
+                  </l>
+                  <l>And <hi>Nova Teſtamenta:</hi> Th' Office of wills</l>
+                  <l>Will better furniſh you then Chancery bills,</l>
+                  <l>(<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hough pittifully complaining) Let all men</l>
+                  <l>This know, here is no work for Poets pen:</l>
+                  <l>Vnl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſe that <hi>Davenant</hi> were put in minde,</l>
+                  <l>And ſent too to the place where hee's confin'd;</l>
+                  <l>
+                     <pb n="8" facs="tcp:156955:5"/>
+To undertake that charge, as the moſt fit,</l>
+                  <l>Both for his preſent caſe, and pregnant wit.</l>
+                  <l>In which; how ſwan-like had our <hi>Suckling</hi> ſung,</l>
+                  <l>Were he not now in <hi>France</hi> to learne the tongue?</l>
+               </lg>
+               <lg>
+                  <l>And thou, that lately in thy place didſt brag,</l>
+                  <l>Thou famous Purſivant, brave <hi>Bonny-Rag,</hi>
+                  </l>
+                  <l>Since now thy buſineſſe will no better fadge,</l>
+                  <l>I wiſh thee, ſell thy guarded Coate and Badge,</l>
+                  <l>To buy a black cloake, and to grace the throng.</l>
+                  <l>Thy fellow <hi>Maze</hi> bring with thee along?</l>
+               </lg>
+               <lg>
+                  <l>Mourne alſo you of th' Arches, for you know,</l>
+                  <l>Your Courts ſhall now no more be kept in <hi>Bowe.</hi>
+                  </l>
+                  <l>You of the <hi>Delegates,</hi> by which wee have fed,</l>
+                  <l>Most delicately, that now may ſeeke our bread,</l>
+                  <l>Let not the Court of <hi>Audience</hi> her griefe ſmother:</l>
+                  <l>Where we would heare our ſelves ſpeake and no other.</l>
+                  <l>And thou <hi>Prerogative</hi> Court haſt loſt thy Glory,</l>
+                  <l>Wee ſhall no more gaine by the Conſiſtory:</l>
+                  <l>Mourne <hi>Baudy</hi> Court, or Court of <hi>Defamations;</hi>
+                  </l>
+                  <l>Bring to this herſe your Excommunications,</l>
+                  <l>And proceſſes with Scales, mourne all you Doctors,</l>
+                  <l>Advocates, Surrogates, Farritors and Proctors;</l>
+                  <l>Since all theſe Courts the Parliament doth damb,</l>
+                  <l>Mourne and lament you all with <hi>Duck</hi> and <hi>Lamb;</hi>
+                  </l>
+                  <l>For your abuſes the whole State abhors,</l>
+                  <l>And you your ſelves have no Compurgators.</l>
+               </lg>
+               <lg>
+                  <l>Beare part in this our griefe, you Cuſtome Farmers,</l>
+                  <l>Who have been others long, now your owne harmers.</l>
+                  <l>As being forc'd of late back to reſtore,</l>
+                  <l>What from the King you had deteynd before,</l>
+                  <l>Tunnage and poundage: be yee now Petitioners,</l>
+                  <l>That <hi>Farmers,</hi> be not changed into <hi>Commiſſioners.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Mourne ye too, that pretended to be rectors</l>
+                  <l>Of the abuſed State, all you <hi>Projectors</hi>
+                  </l>
+                  <l>A<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d <hi>Patentees;</hi> help this our herſe to deck<g ref="char:punc">▪</g>
+                  </l>
+                  <l>With <hi>Kilvert,</hi> and <hi>A bell</hi> about his neck:</l>
+                  <l>And thus much I, for <hi>Doctors Commons</hi> Crave,</l>
+                  <l>That he may goe with decence to his grave.</l>
+                  <l>Doctor <hi>Roan</hi> one of that Society,</l>
+                  <l>From <hi>Roan</hi> in <hi>Normandy.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
